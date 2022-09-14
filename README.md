@@ -5,7 +5,9 @@
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
 </p>
-
+<p>
+I am a dotnet developer.I like developing fast services and systems that available on heavy traffic. Developing is my main hobby, I like coding and solving performance problems by the architectural solutions.I always like searching new updates and improving myself.
+</p>
 <p align="center"> 
  <strong>
   Professional skills
