@@ -22,11 +22,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="microsoftsqlserver" width="40" height="40" />
 </p>
-
-
-<p align="center">
- <a href="#" alt="Lütfullah Öztürk's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozturklut&theme=tokyonight&show_icons=true" />
- </a>
-</p>
-
